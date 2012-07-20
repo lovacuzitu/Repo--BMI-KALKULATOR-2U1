@@ -1,0 +1,22 @@
+c:\users\dejo\documents\visual studio 2010\Projects\2u1BMI\WindowsAplikacija\bin\Debug\WindowsAplikacija.exe
+c:\users\dejo\documents\visual studio 2010\Projects\2u1BMI\WindowsAplikacija\bin\Debug\WindowsAplikacija.pdb
+c:\users\dejo\documents\visual studio 2010\Projects\2u1BMI\WindowsAplikacija\bin\Debug\Biblioteka.dll
+c:\users\dejo\documents\visual studio 2010\Projects\2u1BMI\WindowsAplikacija\bin\Debug\Biblioteka.pdb
+c:\users\dejo\documents\visual studio 2010\Projects\2u1BMI\WindowsAplikacija\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dejo\documents\visual studio 2010\Projects\2u1BMI\WindowsAplikacija\obj\x86\Debug\WindowsAplikacija.Form1.resources
+c:\users\dejo\documents\visual studio 2010\Projects\2u1BMI\WindowsAplikacija\obj\x86\Debug\WindowsAplikacija.Properties.Resources.resources
+c:\users\dejo\documents\visual studio 2010\Projects\2u1BMI\WindowsAplikacija\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\dejo\documents\visual studio 2010\Projects\2u1BMI\WindowsAplikacija\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\dejo\documents\visual studio 2010\Projects\2u1BMI\WindowsAplikacija\obj\x86\Debug\WindowsAplikacija.exe
+c:\users\dejo\documents\visual studio 2010\Projects\2u1BMI\WindowsAplikacija\obj\x86\Debug\WindowsAplikacija.pdb
+C:\Users\Dejo\Desktop\FONIS projekti\2u1BMI\WindowsAplikacija\obj\x86\Debug\WindowsAplikacija.exe
+C:\Users\Dejo\Desktop\FONIS projekti\2u1BMI\WindowsAplikacija\obj\x86\Debug\WindowsAplikacija.pdb
+C:\Users\Dejo\Desktop\FONIS projekti\2u1BMI\WindowsAplikacija\bin\Debug\WindowsAplikacija.exe
+C:\Users\Dejo\Desktop\FONIS projekti\2u1BMI\WindowsAplikacija\bin\Debug\WindowsAplikacija.pdb
+C:\Users\Dejo\Desktop\FONIS projekti\2u1BMI\WindowsAplikacija\bin\Debug\Biblioteka.dll
+C:\Users\Dejo\Desktop\FONIS projekti\2u1BMI\WindowsAplikacija\bin\Debug\Biblioteka.pdb
+C:\Users\Dejo\Desktop\FONIS projekti\2u1BMI\WindowsAplikacija\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dejo\Desktop\FONIS projekti\2u1BMI\WindowsAplikacija\obj\x86\Debug\WindowsAplikacija.Form1.resources
+C:\Users\Dejo\Desktop\FONIS projekti\2u1BMI\WindowsAplikacija\obj\x86\Debug\WindowsAplikacija.Properties.Resources.resources
+C:\Users\Dejo\Desktop\FONIS projekti\2u1BMI\WindowsAplikacija\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dejo\Desktop\FONIS projekti\2u1BMI\WindowsAplikacija\obj\x86\Debug\GenerateResource.write.1.tlog

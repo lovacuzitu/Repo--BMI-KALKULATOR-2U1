@@ -1,0 +1,9 @@
+c:\users\dejo\documents\visual studio 2010\Projects\2u1BMI\KONZOLA\bin\Debug\KONZOLA.exe
+c:\users\dejo\documents\visual studio 2010\Projects\2u1BMI\KONZOLA\bin\Debug\KONZOLA.pdb
+c:\users\dejo\documents\visual studio 2010\Projects\2u1BMI\KONZOLA\bin\Debug\Biblioteka.dll
+c:\users\dejo\documents\visual studio 2010\Projects\2u1BMI\KONZOLA\bin\Debug\Biblioteka.pdb
+c:\users\dejo\documents\visual studio 2010\Projects\2u1BMI\KONZOLA\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dejo\documents\visual studio 2010\Projects\2u1BMI\KONZOLA\obj\x86\Debug\KONZOLA.exe
+c:\users\dejo\documents\visual studio 2010\Projects\2u1BMI\KONZOLA\obj\x86\Debug\KONZOLA.pdb
+C:\Users\Dejo\Desktop\FONIS projekti\2u1BMI\KONZOLA\obj\x86\Debug\KONZOLA.exe
+C:\Users\Dejo\Desktop\FONIS projekti\2u1BMI\KONZOLA\obj\x86\Debug\KONZOLA.pdb

@@ -1,0 +1,5 @@
+c:\users\dejo\documents\visual studio 2010\Projects\2u1BMI\Biblioteka\bin\Debug\Biblioteka.dll
+c:\users\dejo\documents\visual studio 2010\Projects\2u1BMI\Biblioteka\bin\Debug\Biblioteka.pdb
+c:\users\dejo\documents\visual studio 2010\Projects\2u1BMI\Biblioteka\obj\Debug\ResolveAssemblyReference.cache
+c:\users\dejo\documents\visual studio 2010\Projects\2u1BMI\Biblioteka\obj\Debug\Biblioteka.dll
+c:\users\dejo\documents\visual studio 2010\Projects\2u1BMI\Biblioteka\obj\Debug\Biblioteka.pdb
