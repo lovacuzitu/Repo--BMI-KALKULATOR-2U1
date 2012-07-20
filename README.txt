@@ -1,0 +1,1 @@
+Kako bi promenili koja se od ove 2 aplikazije izvrsava, potrebno je kliknuti desnim klikom na jednu od njih i odabrati opciju: Set as startup project.
